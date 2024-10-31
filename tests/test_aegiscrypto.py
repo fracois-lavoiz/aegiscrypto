@@ -1,4 +1,4 @@
-"""Tests for Kyber test suite."""
+"""Tests for certificate tests."""
 import pytest
 
 def test_basic():
